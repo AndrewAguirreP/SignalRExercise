@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRExcercise", "SignalRExcercise\SignalRExcercise.csproj", "{58858EBE-37BC-47D4-934B-35F04D155EEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularSignalRExcercise", "AngularSignalRExcercise\AngularSignalRExcercise.csproj", "{0F47557A-7FCA-476C-9CC0-83E13443C555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58858EBE-37BC-47D4-934B-35F04D155EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58858EBE-37BC-47D4-934B-35F04D155EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58858EBE-37BC-47D4-934B-35F04D155EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58858EBE-37BC-47D4-934B-35F04D155EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F47557A-7FCA-476C-9CC0-83E13443C555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F47557A-7FCA-476C-9CC0-83E13443C555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F47557A-7FCA-476C-9CC0-83E13443C555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F47557A-7FCA-476C-9CC0-83E13443C555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
